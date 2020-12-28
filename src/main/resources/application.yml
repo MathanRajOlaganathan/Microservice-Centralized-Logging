@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: LOGGER-APPLICATION
+logging:
+  file:
+    path: log
+    name: ${logging.file.path}/app.log
+

@@ -1,0 +1,23 @@
+2020-12-28 16:50:29.656  INFO 12528 --- [main] c.l.e.CentralisedLoggingElkApplication   : Starting CentralisedLoggingElkApplication on DESKTOP-CKR6M87 with PID 12528 (C:\Users\Mathan\IdeaProjects\microservices-centralised-logging\target\classes started by Mathan in C:\Users\Mathan\IdeaProjects\microservices-centralised-logging)
+2020-12-28 16:50:29.665  INFO 12528 --- [main] c.l.e.CentralisedLoggingElkApplication   : No active profile set, falling back to default profiles: default
+2020-12-28 16:50:31.424  INFO 12528 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-12-28 16:50:31.445  INFO 12528 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-28 16:50:31.446  INFO 12528 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-28 16:50:31.590  INFO 12528 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-28 16:50:31.590  INFO 12528 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1819 ms
+2020-12-28 16:50:31.913  INFO 12528 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-28 16:50:32.219  INFO 12528 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-12-28 16:50:32.235  INFO 12528 --- [main] c.l.e.CentralisedLoggingElkApplication   : Started CentralisedLoggingElkApplication in 3.366 seconds (JVM running for 4.026)
+2020-12-28 16:50:57.769  INFO 12528 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-28 16:50:57.770  INFO 12528 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-12-28 16:50:57.778  INFO 12528 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2020-12-28 16:50:57.809  INFO 12528 --- [http-nio-8080-exec-1] c.l.elk.controller.GamingController      : Inside getGames method:GamingController
+2020-12-28 17:26:54.206  INFO 12528 --- [http-nio-8080-exec-6] c.l.elk.controller.GamingController      : Inside getGames method:GamingController
+2020-12-28 17:31:22.107  INFO 12528 --- [http-nio-8080-exec-9] c.l.elk.controller.GamingController      : Inside getGames method:GamingController
+2020-12-28 17:32:42.260  INFO 12528 --- [http-nio-8080-exec-2] c.l.elk.controller.GamingController      : Inside getGames method:GamingController
+2020-12-28 17:32:42.425  INFO 12528 --- [http-nio-8080-exec-3] c.l.elk.controller.GamingController      : Inside getGames method:GamingController
+2020-12-28 17:32:42.613  INFO 12528 --- [http-nio-8080-exec-4] c.l.elk.controller.GamingController      : Inside getGames method:GamingController
+2020-12-28 17:32:42.796  INFO 12528 --- [http-nio-8080-exec-5] c.l.elk.controller.GamingController      : Inside getGames method:GamingController
+2020-12-28 17:32:42.967  INFO 12528 --- [http-nio-8080-exec-6] c.l.elk.controller.GamingController      : Inside getGames method:GamingController
+2020-12-28 17:32:43.115  INFO 12528 --- [http-nio-8080-exec-7] c.l.elk.controller.GamingController      : Inside getGames method:GamingController
+2020-12-28 17:32:43.275  INFO 12528 --- [http-nio-8080-exec-8] c.l.elk.controller.GamingController      : Inside getGames method:GamingController
